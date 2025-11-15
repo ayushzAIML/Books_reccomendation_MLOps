@@ -1,0 +1,11 @@
+zenml==0.56.0
+zenml-integrations==0.56.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+scikit-learn>=1.2.0
+pandas>=1.5.0
+numpy>=1.24.0
+cross-encoder>=2.0.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
